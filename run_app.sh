@@ -1,4 +1,4 @@
-#!/bin/bash
+﻿#!/bin/bash
 
 IMAGE_NAME="hello-node-podman:v1"
 CONTAINER_NAME="hello-node-app"
