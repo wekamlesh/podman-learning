@@ -4,7 +4,7 @@ const PORT = process.env.PORT || 3000;
 
 
 app.get('/', (req, res) => {
-    res.send(`Hello Podman with Node.js! - Day1`);');
+    res.send(`Hello Podman with Node.js! - Day1`);
 });
 
 app.listen(PORT, () => {
