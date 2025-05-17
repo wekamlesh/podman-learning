@@ -1,0 +1,12 @@
+{
+    "name": "day2-image-management",
+    "version": "1.0.0",
+    "description": "Image management system",
+    "main": "app.js",
+    "scripts": {
+        "start": "node app.js"
+    },
+    "dependencies": {
+        "express": "^4.18.2"
+    }
+}
